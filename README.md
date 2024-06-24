@@ -16,4 +16,8 @@
 
 **Задание 2**
 
-![image](https://github.com/beast86m/11_3_ELK/assets/47268167/4f6ff8c7-d135-4e53-9d7b-5830ad84b1cb)
+![image](https://github.com/beast86m/11_3_ELK/assets/47268167/7106fef2-e7d2-49f8-b1af-fdbaba7c4892)
+
+
+**Задание 3**
+

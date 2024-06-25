@@ -26,3 +26,4 @@
 
 **Задание 4**
 
+![image](https://github.com/beast86m/11_3_ELK/assets/47268167/a713c85a-fd38-42c8-a6f4-e09dc513ba94)
